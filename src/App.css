@@ -1,0 +1,8 @@
+@import "style/less/base.less";
+@import '~antd/dist/antd.css';
+
+.App {
+    height: 100%;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
